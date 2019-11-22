@@ -136,6 +136,10 @@ This block displays the date and links to Google Calendar.
 </p>
 {% endif %}
 
+<p id="registration">
+  <strong>Registration:</strong> Coming soon.
+ </p>
+
 {% comment %}
 SPECIAL REQUIREMENTS
 
